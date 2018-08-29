@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listArray">
+        <item>Deacon Blues</item>
+        <item>Green Earrings</item>
+        <item>Black Cow</item>
+    </string-array>
+    <string-array name="fontSizeArray">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="backgroundArray">
+        <item>Stars</item>
+        <item>Mountain</item>
+        <item>Sky</item>
+        <item>Lion</item>
+        <item>Leaf</item>
+        <item>Red</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="listValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="backgroundValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>
